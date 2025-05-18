@@ -8,7 +8,7 @@ This is a Windows `.exe` version of the classic **Snake and Ladder** game, origi
 ## 📦 How to Use
 
 1. **Download** the `.exe` file:
-   - 👉 `snakes_n_ladder.exe`
+   - 👉 `snakes_n_ladders.exe`
 
 2. **Double-click** to run the game.
    - No need to install Python or any dependencies.
